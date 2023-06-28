@@ -322,7 +322,9 @@ body{
     padding: 18px 0;
 }
 
-
+.fa-copyright {
+    color: red
+}
 
 /*------Media Query--------- */
 
